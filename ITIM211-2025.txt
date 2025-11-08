@@ -1,0 +1,57 @@
+ITIM211 Information Management
+
+MP1 Product/Service CRUD 20pts
+Product/Service CRUD 10pts
+Product/Service CRUD upload a single photo 15pts
+Product/Service CRUD upload/view multiple photos 20pts
+
+MP2 User CRUD 20pts
+User CRUD
+User Registration 3pts
+User update profile 3pts
+User Registration upload a photo 5pts
+User update profile with upload photo 5pts
+admin can deactivate a user 5pts
+admin updates an active user's role 5pts
+
+mp3
+user login logout, use email for user login 5pts
+user login logout, restrict ordinary users from CRUD pages 10pts
+user login/logout, restrict ordinary users from CRUD pages, redirect unauthenticated users to the login page with an appropriate message  15pts
+
+user login/logout, restrict ordinary users from CRUD pages, redirect unauthenticated users to the login page with an appropriate message, user with admin roles can access CRUD pages/scripts  20pts
+
+mp4 review crud 20pts 
+a product or service can be reviewed by a customer that availed the specified product or service. 5pts
+product reviews can be seen on the product details page 5pts
+a user can update the review 5pts
+apply regex to filter or mask bad/foul words on the review 5pts
+
+mp5
+User interface design css 10pts
+User interface design with css/bootstrap 20pts
+
+term test lab 25pts
+completed transaction use prepared statements 10pts
+admin can view all orders and update the status of the transaction 5pts
+
+send an email to the customer of the updated transaction. 5pts
+
+the email contains the list of products/services, their subtotal and grand total.  5pts 
+use mailtrap service
+
+unit 1 20pts
+database design at least 2nd normal form 15pts
+database design with MySQL view for the order transaction details 20pts
+
+unit 2 30pts
+functional requirements completeness 10pts
+program execution (errors).  10pts
+project contribution 10pts
+
+quiz 3 search function on homepage 15pts
+quiz 4 form validation on login and registration. mp1 and mp2 10pts. do not use HTML5 validation
+
+
+term test lecture pen and paper
+
