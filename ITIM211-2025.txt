@@ -49,8 +49,8 @@ functional requirements completeness 10pts
 program execution (errors).  10pts
 project contribution 10pts
 
-quiz 3 search function on homepage 15pts
-quiz 4 form validation on login and registration. mp1 and mp2 10pts. do not use HTML5 validation
+quiz 2 search function on homepage 15pts
+quiz 3 form validation on login and registration. mp1 and mp2 10pts. do not use HTML5 validation
 
 
 term test lecture pen and paper
